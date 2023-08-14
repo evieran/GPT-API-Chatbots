@@ -1,6 +1,6 @@
 # GPTAPI-Chatbots
 
-This repository contains three Python scripts that interact with the OpenAI GPT-3.5 Turbo API to create unique chatbot experiences.
+This repository contains three Python scripts that interact with the OpenAI GPT-3.5 Turbo API to create customized chatbot experiences.
 
 ## Chatbot1.py
 This script demonstrates how to use the OpenAI API to get a specific response from the model.
